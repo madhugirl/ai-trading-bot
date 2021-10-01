@@ -1,3 +1,6 @@
 # ai-trading-bot
 
-![Screenshot](https://github.com/madhugirl/Web-application-for-ETF-analyzer/blob/main/Screenshot.png)
+Model 2 
+
+https://github.com/madhugirl/ai-trading-bot/blob/main/output.png
+
